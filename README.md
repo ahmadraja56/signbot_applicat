@@ -13,7 +13,7 @@ This system can help in public speaking and students with speech impairment.
 
 ## Output Screenshots
 <div style="margin-right: 30px;" align="center">
-<img src="[https://github.com/Shruthi-Sivagnanam/sign-aloud/assets/82823305/e5616027-6832-4db4-bafa-5aeda6e9c7ed)](https://drive.google.com/file/d/1HggRzvQMKlbfjmWwjHY2ahx66Fi_VI70/view?usp=drive_link)" float="left" width="200px" height="500px" />
+<img src="https://drive.google.com/file/d/1HggRzvQMKlbfjmWwjHY2ahx66Fi_VI70/view?usp=sharing" float="left" width="200px" height="500px" />
   &nbsp; &nbsp;
 <img src="https://github.com/Shruthi-Sivagnanam/sign-aloud/assets/82823305/b1d948f9-bdbe-4a28-b9fe-6dff4bd260c5" float="left" width="200px" height="500px"/>
   &nbsp; &nbsp;
