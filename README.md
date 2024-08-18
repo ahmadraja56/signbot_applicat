@@ -1,4 +1,4 @@
-# Sign Aloud  - Sign Language Recognition System
+# SignBot  - Sign Language Recognition System
 
 ## Abstract
 The major focus of this project is to create a deep learning-based android 
