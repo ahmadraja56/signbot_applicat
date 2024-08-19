@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:layout_marginTop="-60dp"
+        android:layout_marginRight="-160dp"
+        android:layout_marginBottom="80dp"/>
+    <ImageView
+        android:id="@+id/imagelogo"
+        android:layout_width="175dp"
+        android:layout_height="175dp"
+        android:layout_marginTop="28dp"
+        android:src="@drawable/lgs" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textAllCaps="false"
+        android:textSize="40dp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"
+        />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/camera_button"
+        android:text="Click to open Camera"
+        android:backgroundTint="@color/blue_alpha100"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/Text2Speech"
+        android:text="Text2Speech"
+        android:backgroundTint="@color/blue_alpha100"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/Speech2Text"
+        android:text="Speech2Text"
+        android:backgroundTint="@color/blue_alpha100"
+        android:textAllCaps="false"
+        />
+
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/learning"
+        android:text="Learning"
+        android:backgroundTint="@color/blue_alpha100"
+        android:textAllCaps="false"/>
+</LinearLayout>
